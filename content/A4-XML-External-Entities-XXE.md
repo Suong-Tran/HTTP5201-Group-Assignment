@@ -1,6 +1,5 @@
 ---
 title: A4-XML External-Entities (XXE)
-date: 1624016976
 description: Many older or poorly configured XML processors evaluate external entity references within XML documents. External entities can be used to disclose internal files using the file URI handler, internal file shares, internal port scanning, remote code execution, and denial of service attacks.
 ---
 
