@@ -1,6 +1,6 @@
 const config = {
     blogName: "HTTP 5201 Group Assignment",
-    authorName: "Emilio Estevez",
+    authorName: "HTTP 5201 Group",
     authorDescription: "just a group doing their best.",
     authorWebsite: "https://en.wikipedia.org/wiki/Emilio_Estevez",
     root: "https://example.com",
