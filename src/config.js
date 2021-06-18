@@ -5,7 +5,7 @@ const config = {
     authorWebsite: "https://en.wikipedia.org/wiki/Emilio_Estevez",
     root: "https://example.com",
     blogDescription: "Just the simplest page",
-    themeColour: "#ff00ff",
+    themeColour: "#162d52",
     dev: {
         postsdir: "content",
         outdir: "public"
