@@ -1,6 +1,6 @@
 ---
 title: A7-Cross Site Scripting XSS
-date: 1497804944000
+date: 1624042000000
 description: XSS flaws occur whenever an application includes untrusted data in a new web page without proper validation or escaping, or updates an existing web page with user-supplied data using a browser API that can create HTML or JavaScript. XSS allows attackers to execute scripts in the victim’s browser which can hijack user sessions, deface web sites, or redirect the user to malicious sites.
 ---
 

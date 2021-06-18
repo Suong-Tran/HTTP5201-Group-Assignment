@@ -1,0 +1,8 @@
+---
+title: A4-XML External-Entities (XXE)
+date: 1624042000000
+description: Many older or poorly configured XML processors evaluate external entity references within XML documents. External entities can be used to disclose internal files using the file URI handler, internal file shares, internal port scanning, remote code execution, and denial of service attacks.
+---
+
+## Summary 
+This topic will cover the importance of XML documents, and how to prevent attackers. XML documents can contain numerouse data, and are used when performaing task or storing information. Now an attacker can exploit vulnerable data, and either upload there own XML or change the XML document. There are tools to help in prevent such as SAST/DAST tools. Each of have there goods and bads, but the main thing to understand is that manual testers need to be trained on how to test for XXE and what to look out for. Now in regarding the impact that could result from this, is that attackers can steal data, make a remote request to the server, denial of service for the webpage, or any attacks that they could think of. Not to mention the business will also have to deal with the cost of handling the situation, or the users who had there information stolen. In conclusion, XML documents are a good way to handle data but testers must make sure that they keep XML procssors/libraroes up to date, use less complex data format, validate any incoming XML using XSD validation, and used the tools/resources provided to handle XML documents.   

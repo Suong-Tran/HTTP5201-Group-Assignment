@@ -1,0 +1,9 @@
+---
+title: A3-Sensitive-Data-Exposure
+date: 1624042000000
+description: Many web applications and APIs do not properly protect sensitive data, such as financial, healthcare, and PII. Attackers may steal or modify such weakly protected data to conduct credit card fraud, identity theft, or other crimes. Sensitive data may be compromised without extra protection, such as encryption at rest or in transit, and requires special precautions when exchanged with the browser.
+---
+
+## Summary 
+The explanation of this topic is the matter of handling sensitive data, and the dos and don'ts of it. With how important web applications and APIs have become in today's day/age, a lot of time people will post sensitive information on the web. Depening on the website they must be able to handle such sensitive data, and stop any attemps from it getting stolen. One of the most common method of this data being stolen is not encrypting sensitive data. By not doing so allows such information to be more accessible, and easy to steal from the database. Some examples attackers have done is by stealing keys, stealing non-encrypted data from the servers, or while the user is in process of download/uploading content from their browser. Failure in protecting this data does not just affect the owners of the web page, but also user who posted there information. 
+Information that could be health records, credit card information, or any personal data that they have. In conclusion, be sure to encrypt any sensitive information, keep up to date with cryptograpohic algorithms (don't just use the default or old code), any transfer of date is properly encryted and enforced, and any information that is consider sensitive according to privacy law / regulatory requirementts / business needs are properly stored and handle. 
