@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # A very simple SSG
 
 ## Inspired
@@ -45,4 +44,14 @@ npm package [express](https://www.npmjs.com/package/express) provides a simple h
 `src/serve.js` starts the express server.
 =======
 # HTTP5201-Group-Assignment
->>>>>>> 5df4826f3fdd43fbe7ffba8ecc88b5a98afee23f
+
+## Group Members
+- Estevan Cordero
+
+## Pages 
+- Estevan
+    - A3:2017-Sensitive Data Exposure
+    - A4:2017-XML External Entities (XXE)
+
+## Description of Branching Model
+- 
