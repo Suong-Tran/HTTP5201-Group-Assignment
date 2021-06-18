@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A very simple SSG
 
 ## Inspired
@@ -42,3 +43,6 @@ npm package [fs-extra](https://www.npmjs.com/package/fs-extra) provides some uti
 npm package [express](https://www.npmjs.com/package/express) provides a simple http server configuration.
 
 `src/serve.js` starts the express server.
+=======
+# HTTP5201-Group-Assignment
+>>>>>>> 5df4826f3fdd43fbe7ffba8ecc88b5a98afee23f
